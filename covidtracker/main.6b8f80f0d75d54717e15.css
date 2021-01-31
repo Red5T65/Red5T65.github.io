@@ -1,0 +1,64 @@
+.categorySelect-2hsja {
+  display: flex;
+  flex-flow: column;
+}
+.categorySelect-2hsja > .buttonGroup-hAlKE {
+  display: flex;
+}
+.categorySelect-2hsja > .buttonGroup-hAlKE > label {
+  flex: 1;
+  text-align: center;
+  border: solid 1px black;
+  padding: 8px;
+}
+.categorySelect-2hsja > .buttonGroup-hAlKE > label > input {
+  display: none;
+}
+.categorySelect-2hsja > .buttonGroup-hAlKE > label.checked-2HEWh {
+  background-color: cyan;
+}
+.categorySelect-2hsja > .perCapita-3XZGa > label.checked-2HEWh {
+  background-color: lime;
+}
+
+.Legend-1bB10 {
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+  justify-context: center;
+  text-align: center;
+  border: solid 2px black;
+  border-radius: 8px;
+  padding: 8px;
+  margin: 8px;
+}
+.Legend-1bB10 > .colordivs-pX9NY {
+  display: flex;
+  height: 32px;
+  justify-content: space-between;
+}
+.Legend-1bB10 > .values-1ODft {
+  display: flex;
+  justify-content: space-between;
+}
+
+.map-2a3w7 {
+  display: flex;
+  flex-flow: column;
+}
+
+body {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.app-19qm0 {
+  display: flex;
+  flex-flow: column;
+  max-width: 800px;
+  width: 100%;
+}
+
+
+/*# sourceMappingURL=main.6b8f80f0d75d54717e15.css.map*/
